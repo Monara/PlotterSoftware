@@ -1,0 +1,9 @@
+iocon_15xx.h:95:20:void Chip_IOCON_PinMuxSet(LPC_IOCON_T*, uint8_t, uint8_t, uint32_t)	24	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+gpio_15xx.h:121:20:bool Chip_GPIO_GetPinState(LPC_GPIO_T*, uint8_t, uint8_t)	16	static
+gpio_15xx.h:158:20:void Chip_GPIO_SetPinDIRInput(LPC_GPIO_T*, uint8_t, uint8_t)	16	static
+sct_15xx.h:292:20:void Chip_SCT_Config(LPC_SCT_T*, uint32_t)	16	static
+sct_15xx.h:379:20:void Chip_SCT_SetMatchReload(LPC_SCT_T*, CHIP_SCT_MATCH_REG_T, uint32_t)	24	static
+sct_15xx.h:423:20:void Chip_SCT_SetControl(LPC_SCT_T*, uint32_t)	16	static
+sct_15xx.h:434:20:void Chip_SCT_ClearControl(LPC_SCT_T*, uint32_t)	16	static
+Lab7ex1.cpp:26:5:int main()	40	static

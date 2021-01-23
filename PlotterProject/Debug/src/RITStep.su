@@ -1,0 +1,24 @@
+core_cm3.h:1323:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm3.h:1335:22:void NVIC_DisableIRQ(IRQn_Type)	16	static
+core_cm3.h:1375:22:void NVIC_ClearPendingIRQ(IRQn_Type)	16	static
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+pinint_15xx.h:101:20:void Chip_PININT_SetPinModeEdge(LPC_PIN_INT_T*, uint32_t)	16	static
+pinint_15xx.h:171:20:void Chip_PININT_EnableIntLow(LPC_PIN_INT_T*, uint32_t)	16	static
+pinint_15xx.h:245:20:void Chip_PININT_ClearIntStatus(LPC_PIN_INT_T*, uint32_t)	16	static
+ritimer_15xx.h:107:20:void Chip_RIT_Enable(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:117:20:void Chip_RIT_Disable(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:151:20:void Chip_RIT_EnableCompClear(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:181:20:void Chip_RIT_ClearIntStatus(LPC_RITIMER_T*)	16	static
+inmux_15xx.h:221:20:void Chip_INMUX_PinIntSel(uint8_t, uint8_t, uint8_t)	16	static
+RITStep.cpp:27:6:void RITStepInit()	8	static
+RITStep.cpp:38:6:void RIT_IRQHandler()	40	static
+RITStep.cpp:131:6:void RITStep(int, int, int, int, StepperController*)	48	static
+RITStep.cpp:177:6:void PIN_INT0_IRQHandler()	16	static
+RITStep.cpp:185:6:void PIN_INT1_IRQHandler()	16	static
+RITStep.cpp:193:6:void PIN_INT2_IRQHandler()	16	static
+RITStep.cpp:201:6:void PIN_INT3_IRQHandler()	16	static
+RITStep.cpp:211:6:void initLimitInterrupts()	8	static
+RITStep.cpp:234:6:void disableLimitInterrupts()	8	static
+RITStep.cpp:241:6:void enableLimitInterrupts()	8	static
+RITStep.cpp:256:1:void __static_initialization_and_destruction_0(int, int)	16	static
+RITStep.cpp:256:1:cpp)	8	static

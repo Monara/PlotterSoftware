@@ -1,0 +1,28 @@
+core_cm3.h:1323:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm3.h:1335:22:void NVIC_DisableIRQ(IRQn_Type)	16	static
+core_cm3.h:1375:22:void NVIC_ClearPendingIRQ(IRQn_Type)	16	static
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+sysctl_15xx.h:185:20:void Chip_SYSCTL_PeriphReset(CHIP_SYSCTL_PERIPH_RESET_T)	16	static
+iocon_15xx.h:95:20:void Chip_IOCON_PinMuxSet(LPC_IOCON_T*, uint8_t, uint8_t, uint32_t)	24	static
+gpio_15xx.h:158:20:void Chip_GPIO_SetPinDIRInput(LPC_GPIO_T*, uint8_t, uint8_t)	16	static
+pinint_15xx.h:79:20:void Chip_PININT_Init(LPC_PIN_INT_T*)	16	static
+pinint_15xx.h:101:20:void Chip_PININT_SetPinModeEdge(LPC_PIN_INT_T*, uint32_t)	16	static
+pinint_15xx.h:171:20:void Chip_PININT_EnableIntLow(LPC_PIN_INT_T*, uint32_t)	16	static
+pinint_15xx.h:245:20:void Chip_PININT_ClearIntStatus(LPC_PIN_INT_T*, uint32_t)	16	static
+inmux_15xx.h:221:20:void Chip_INMUX_PinIntSel(uint8_t, uint8_t, uint8_t)	16	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+atomic_base.h:99:3:constexpr std::memory_order std::operator&(std::memory_order, std::__memory_order_modifier)	16	static
+Lab8ex2.cpp:31:13:void prvSetupHardware()	8	static
+Lab8ex2.cpp:78:6:void PIN_INT0_IRQHandler()	24	static
+Lab8ex2.cpp:98:6:void PIN_INT1_IRQHandler()	24	static
+Lab8ex2.cpp:116:6:void PIN_INT2_IRQHandler()	24	static
+Lab8ex2.cpp:138:13:void vPRINTTask(void*)	72	static
+Lab8ex2.cpp:166:13:void vSET_FILTERTask(void*)	72	static
+Lab8ex2.cpp:209:6:void vConfigureTimerForRunTimeStats()	8	static
+Lab8ex2.cpp:219:5:int main()	16	static
+atomic_base.h:284:7:std::__atomic_base<_IntTp>::operator std::__atomic_base<_IntTp>::__int_type() const volatile [with _ITp = int]	24	static
+std_mutex.h:158:16:std::lock_guard<_Mutex>::lock_guard(std::lock_guard<_Mutex>::mutex_type&) [with _Mutex = Fmutex]	16	static
+std_mutex.h:164:7:std::lock_guard<_Mutex>::~lock_guard() [with _Mutex = Fmutex]	16	static
+atomic_base.h:295:7:std::__atomic_base<_IntTp>::__int_type std::__atomic_base<_IntTp>::operator=(std::__atomic_base<_IntTp>::__int_type) volatile [with _ITp = int]	32	static
+Lab8ex2.cpp:239:1:void __static_initialization_and_destruction_0(int, int)	16	static
+Lab8ex2.cpp:239:1:cpp)	8	static

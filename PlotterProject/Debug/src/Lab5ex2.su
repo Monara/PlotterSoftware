@@ -1,0 +1,7 @@
+Lab5ex2.cpp:32:13:void prvSetupHardware()	8	static
+Lab5ex2.cpp:41:13:void vLIMITTask(void*)	32	static
+Lab5ex2.cpp:89:13:void vSTEP_MOTORTask(void*)	56	static
+Lab5ex2.cpp:136:6:void vConfigureTimerForRunTimeStats()	8	static
+Lab5ex2.cpp:146:5:int main()	24	static
+Lab5ex2.cpp:166:1:void __static_initialization_and_destruction_0(int, int)	16	static
+Lab5ex2.cpp:166:1:cpp)	8	static

@@ -1,0 +1,6 @@
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+penControl.cpp:11:1:penControl::penControl(LPC_SCT_T*, CHIP_SWM_PIN_MOVABLE, int, int)	24	static
+penControl.cpp:50:1:penControl::~penControl()	16	static
+penControl.cpp:50:1:virtual penControl::~penControl()	16	static
+penControl.cpp:55:6:void penControl::setPenPosition(uint8_t)	24	static
+penControl.cpp:62:9:uint8_t penControl::getPenPosition()	16	static

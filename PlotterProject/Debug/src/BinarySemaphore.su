@@ -1,0 +1,6 @@
+BinarySemaphore.cpp:10:1:BinarySemaphore::BinarySemaphore()	16	static
+BinarySemaphore.cpp:15:1:BinarySemaphore::~BinarySemaphore()	16	static
+BinarySemaphore.cpp:15:1:virtual BinarySemaphore::~BinarySemaphore()	16	static
+BinarySemaphore.cpp:19:6:void BinarySemaphore::give()	16	static
+BinarySemaphore.cpp:24:6:void BinarySemaphore::giveFromISR(BaseType_t*)	16	static
+BinarySemaphore.cpp:29:6:bool BinarySemaphore::take()	16	static

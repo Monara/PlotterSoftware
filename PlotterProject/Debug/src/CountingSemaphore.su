@@ -1,0 +1,5 @@
+CountingSemaphore.cpp:11:1:CountingSemaphore::CountingSemaphore(int, int)	24	static
+CountingSemaphore.cpp:16:1:CountingSemaphore::~CountingSemaphore()	16	static
+CountingSemaphore.cpp:16:1:virtual CountingSemaphore::~CountingSemaphore()	16	static
+CountingSemaphore.cpp:20:6:void CountingSemaphore::give()	16	static
+CountingSemaphore.cpp:25:6:void CountingSemaphore::take()	16	static

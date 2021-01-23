@@ -1,0 +1,2 @@
+GCodeItem.h:11:7:constexpr GCodeItem::GCodeItem()	16	static
+GCodeItem.cpp:16:6:static bool GCodeItem::parse(const char*, GCodeItem&)	136	static

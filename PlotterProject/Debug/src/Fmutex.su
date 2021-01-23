@@ -1,0 +1,6 @@
+Fmutex.cpp:11:1:Fmutex::Fmutex()	16	static
+Fmutex.cpp:16:1:Fmutex::~Fmutex()	16	static
+Fmutex.cpp:16:1:virtual Fmutex::~Fmutex()	16	static
+Fmutex.cpp:21:6:void Fmutex::lock()	16	static
+Fmutex.cpp:26:6:void Fmutex::unlock()	16	static
+Fmutex.cpp:31:6:void Fmutex::addToRegistry(char*)	16	static

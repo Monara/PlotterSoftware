@@ -1,0 +1,18 @@
+core_cm3.h:1323:22:void NVIC_EnableIRQ(IRQn_Type)	16	static
+core_cm3.h:1335:22:void NVIC_DisableIRQ(IRQn_Type)	16	static
+core_cm3.h:1405:22:void NVIC_SetPriority(IRQn_Type, uint32_t)	16	static
+swm_15xx.h:232:20:void Chip_SWM_MovablePortPinAssign(CHIP_SWM_PIN_MOVABLE_T, uint8_t, uint8_t)	16	static
+ritimer_15xx.h:107:20:void Chip_RIT_Enable(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:117:20:void Chip_RIT_Disable(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:151:20:void Chip_RIT_EnableCompClear(LPC_RITIMER_T*)	16	static
+ritimer_15xx.h:181:20:void Chip_RIT_ClearIntStatus(LPC_RITIMER_T*)	16	static
+Lab6ex3.cpp:40:13:void prvSetupHardware()	8	static
+Lab6ex3.cpp:58:6:void RIT_IRQHandler()	16	static
+Lab6ex3.cpp:72:6:void RIT_delay_us(int)	32	static
+Lab6ex3.cpp:100:13:void vLEDTask(void*)	24	static
+Lab6ex3.cpp:133:13:void vSTEP_MOTORTask(void*)	576	static
+Lab6ex3.cpp:312:5:int calculateDelay(int)	16	static
+Lab6ex3.cpp:325:6:void vConfigureTimerForRunTimeStats()	8	static
+Lab6ex3.cpp:335:5:int main()	24	static
+Lab6ex3.cpp:355:1:void __static_initialization_and_destruction_0(int, int)	16	static
+Lab6ex3.cpp:355:1:cpp)	8	static

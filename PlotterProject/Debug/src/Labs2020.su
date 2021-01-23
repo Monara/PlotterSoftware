@@ -1,0 +1,7 @@
+Labs2020.cpp:18:13:void prvSetupHardware()	8	static
+Labs2020.cpp:28:13:void vDEBUGTask(void*)	112	static
+Labs2020.cpp:42:13:void vBUTTONTask(void*)	40	static
+Labs2020.cpp:64:13:void vQUEUETask(void*)	24	static
+Labs2020.cpp:106:6:void debug(const char*, uint32_t, uint32_t, uint32_t)	40	static
+Labs2020.cpp:126:6:void vConfigureTimerForRunTimeStats()	8	static
+Labs2020.cpp:136:5:int main()	16	static

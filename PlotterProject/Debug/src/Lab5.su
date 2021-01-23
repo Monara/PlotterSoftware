@@ -1,0 +1,4 @@
+Lab5.cpp:27:13:void prvSetupHardware()	8	static
+Lab5.cpp:37:13:void vLIMITTask(void*)	56	static
+Lab5.cpp:119:6:void vConfigureTimerForRunTimeStats()	8	static
+Lab5.cpp:129:5:int main()	16	static

@@ -1,0 +1,25 @@
+PlotterController.cpp:26:1:PlotterController::PlotterController()	24	static
+PlotterController.cpp:32:6:void PlotterController::findBounds()	32	static
+PlotterController.cpp:125:6:void PlotterController::findMaxSpeed()	40	static
+PlotterController.cpp:192:6:void PlotterController::setAreaWidth(int)	16	static
+PlotterController.cpp:196:6:void PlotterController::setAreaHeight(int)	16	static
+PlotterController.cpp:200:5:int PlotterController::getAreaWidth() const	16	static
+PlotterController.cpp:204:5:int PlotterController::getAreaHeight() const	16	static
+PlotterController.cpp:208:6:void PlotterController::setStepperXDir(bool)	16	static
+PlotterController.cpp:212:6:void PlotterController::setStepperYDir(bool)	16	static
+PlotterController.cpp:216:6:bool PlotterController::getStepperXDir() const	16	static
+PlotterController.cpp:220:6:bool PlotterController::getStepperYDir() const	16	static
+PlotterController.cpp:224:6:void PlotterController::setPlottingSpeedPercent(int)	16	static
+PlotterController.cpp:228:5:int PlotterController::getPlottingSpeedPercent() const	16	static
+PlotterController.cpp:232:6:void PlotterController::setPenUpVal(int)	16	static
+PlotterController.cpp:236:6:void PlotterController::setPenDownVal(int)	16	static
+PlotterController.cpp:240:5:int PlotterController::getPenUpVal() const	16	static
+PlotterController.cpp:244:5:int PlotterController::getPenDownVal() const	16	static
+PlotterController.cpp:248:6:bool PlotterController::anyLimitsClosed()	16	static
+PlotterController.cpp:255:6:bool PlotterController::readLimitRight()	16	static
+PlotterController.cpp:258:6:bool PlotterController::readLimitLeft()	16	static
+PlotterController.cpp:261:6:bool PlotterController::readLimitTop()	16	static
+PlotterController.cpp:264:6:bool PlotterController::readLimitBottom()	16	static
+PlotterController.cpp:268:6:void PlotterController::drawLine(float, float)	64	static
+PlotterController.cpp:283:6:void PlotterController::stepMultiplier(float, float)	32	static
+PlotterController.cpp:288:6:void PlotterController::setPenPosition(int)	16	static
